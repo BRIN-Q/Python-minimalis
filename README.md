@@ -37,7 +37,7 @@ Seri ini dimulai dari penggunaan Python sebagai kalkulator sederhana, lalu berke
 | 9 | 🧱 Larik 2D dengan NumPy | [Buka PDF](notes/09-numpy-2D.pdf) |
 | 10 | 📊 Plot Grafik | [Buka PDF](notes/10-grafik.pdf) |
 
-Klik: [versi PDF gabungan](notes/Python-Minimalis.pdf), jika ingin mengunduh berkas gabungan seluruh materi yang tersedia saat ini.
+Klik: [versi PDF gabungan](https://raw.githubusercontent.com/BRIN-Q/Python-minimalis/main/notes/Python-Minimalis.pdf), jika ingin mengunduh berkas gabungan seluruh materi yang tersedia saat ini.
 
 ---
 
