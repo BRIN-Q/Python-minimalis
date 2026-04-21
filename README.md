@@ -18,10 +18,11 @@ Serial ini disusun dengan pendekatan minimalis, yaitu menekankan konsep-konsep i
 
 Secara khusus, seluruh materi pada tutorial ini telah diberikan dan diujicobakan pada beberapa peserta  **magang riset di Pusat Riset Fisika Kuantum BRIN** periode Semester Genap 2025/26 dan akan terus diperbarui/dikoreksi.  Penyusunan serial ini melibatkan peneliti **Pusat Riset Fisika Kuantum BRIN**, mahasiswa bimbingan, dan alumni, terutama dari **Kelompok Riset Teori Materi Kuantum**.
 
-
 ---
 
 ## 🧭 Struktur Tutorial
+
+Seri ini dimulai dari penggunaan Python sebagai kalkulator sederhana, lalu berkembang ke tipe data dasar, struktur kontrol, fungsi, struktur data, dan pengolahan berkas. Setelah itu, pembahasan diperluas ke penggunaan **NumPy** untuk larik satu dimensi dan dua dimensi, serta pembuatan grafik untuk visualisasi data. Dengan urutan seperti ini, pembaca dapat membangun pemahaman dari dasar menuju penggunaan Python yang lebih relevan untuk kebutuhan akademik dan teknis. Silakan unduh setiap tutorial satu per satu pada tabel berikut.
 
 | No. | Topik | Materi |
 |---|---|---|
@@ -40,21 +41,7 @@ Klik: [versi PDF gabungan](notes/Python-Minimalis.pdf), jika ingin mengunduh ber
 
 ---
 
-## 🎯 Tujuan Seri Ini
-
-- Mengenalkan Python secara bertahap dan minimalis
-- Membantu pembaca memahami konsep dasar pemrograman dengan Python
-- Menyediakan bahan belajar berbahasa Indonesia yang ringkas dan mudah diakses
-- Menjadi fondasi untuk topik yang lebih lanjut seperti komputasi ilmiah, analisis data, dan visualisasi
-- Mendukung pembelajaran mandiri, tutorial, maupun kegiatan pengajaran
-
----
-
-## 📚 Cakupan Materi
-
-Seri ini dimulai dari penggunaan Python sebagai kalkulator sederhana, lalu berkembang ke tipe data dasar, struktur kontrol, fungsi, struktur data, dan pengolahan berkas. Setelah itu, pembahasan diperluas ke penggunaan **NumPy** untuk larik satu dimensi dan dua dimensi, serta pembuatan grafik untuk visualisasi data. Dengan urutan seperti ini, pembaca dapat membangun pemahaman dari dasar menuju penggunaan Python yang lebih relevan untuk kebutuhan akademik dan teknis.
-
-## 📚 Referensi Utama
+## 📚 Referensi
 
 - Christian Hill, *Learning Scientific Programming with Python*, 2nd edition, Cambridge University Press, 2020.
 - Mark Newman, *Computational Physics*, 2nd edition, CreateSpace Independent Publishing Platform, 2025.
