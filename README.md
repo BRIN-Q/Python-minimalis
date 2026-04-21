@@ -5,16 +5,19 @@
 ![Language](https://img.shields.io/badge/language-Indonesian-red)
 ![Level](https://img.shields.io/badge/level-beginner%20to%20intermediate-purple)
 
-> Seri tutorial Python untuk pelajar sains, teknik, dan teknologi di Indonesia.
-> Disusun agar pembaca dapat mempelajari dasar-dasar Python secara bertahap, ringkas, dan aplikatif, sebagai fondasi untuk komputasi ilmiah dan pemrograman lanjut.
+> Seri tutorial Python untuk pelajar sains dan teknik di Indonesia.
+> Disusun agar pembaca dapat mempelajari dasar-dasar Python secara bertahap, ringkas, dan aplikatif, terutama sebagai fondasi untuk komputasi ilmiah, kegiatan riset, ataupun pemrograman lanjut.
 
 ---
 
 ## 📌 Tentang Proyek Ini
 
-**Serial Tutorial Python Minimalis** merupakan seri bahan belajar Python yang dikembangkan untuk mendukung pembelajaran pemrograman secara terstruktur, ringkas, dan bertahap, dikemas dalam **bahasa Indonesia**. Materi ini dirancang terutama untuk membantu pemula memahami dasar-dasar Python sebagai bekal untuk komputasi, analisis data, visualisasi, dan pemrograman ilmiah.
+**Python Minimalis** merupakan serial tutorial bahasa pemrograman Python yang dikembangkan untuk mendukung aktivitas belajar pemrograman secara terstruktur, ringkas, dan bertahap, dikemas dalam **bahasa Indonesia**. Setiap catatan pelajarannya dirancang untuk membantu pemula memahami dasar-dasar Python sebagai bekal untuk komputasi ilmiah, analisis data, visualisasi, hingga pemrograman lanjutan. 
 
-Seri ini disusun dengan pendekatan minimalis, yaitu menekankan konsep-konsep inti yang paling penting, disertai contoh-contoh yang cukup untuk mulai praktik. Dengan demikian, pembaca diharapkan tidak hanya dapat menjalankan kode Python, tetapi juga memahami pola berpikir dasar dalam pemrograman.
+Serial ini disusun dengan pendekatan minimalis, yaitu menekankan konsep-konsep inti yang dipandang paling penting terpakai, terutama di dunia riset, disertai contoh-contoh yang cukup untuk mulai praktik. Dengan demikian, pembaca diharapkan tidak hanya dapat menjalankan kode Python, tetapi juga memahami pola berpikir dasar dalam pemrograman tanpa perlu terlalu pusing dengan istilah-istilah teknis tingkat tinggi.  
+
+Secara khusus, seluruh materi pada tutorial ini telah diberikan dan diujicobakan pada beberapa peserta  **magang riset di Pusat Riset Fisika Kuantum BRIN** periode Semester Genap 2025/26 dan akan terus diperbarui/dikoreksi.  Penyusunan serial ini melibatkan peneliti **Pusat Riset Fisika Kuantum BRIN**, mahasiswa bimbingan, dan alumni, terutama dari **Kelompok Riset Teori Materi Kuantum**.
+
 
 ---
 
@@ -33,7 +36,7 @@ Seri ini disusun dengan pendekatan minimalis, yaitu menekankan konsep-konsep int
 | 9 | 🧱 Larik 2D dengan NumPy | [Buka PDF](notes/09-numpy-2D.pdf) |
 | 10 | 📊 Plot Grafik | [Buka PDF](notes/10-grafik.pdf) |
 
-Klik: [versi PDF gabungan](Python-Minimalis.pdf), jika ingin mengunduh berkas gabungan seluruh materi yang tersedia saat ini.
+Klik: [versi PDF gabungan](notes/Python-Minimalis.pdf), jika ingin mengunduh berkas gabungan seluruh materi yang tersedia saat ini.
 
 ---
 
@@ -49,9 +52,13 @@ Klik: [versi PDF gabungan](Python-Minimalis.pdf), jika ingin mengunduh berkas ga
 
 ## 📚 Cakupan Materi
 
-Seri ini dimulai dari penggunaan Python sebagai kalkulator sederhana, lalu berkembang ke tipe data dasar, struktur kontrol, fungsi, struktur data, dan pengolahan berkas. Setelah itu, pembahasan diperluas ke penggunaan **NumPy** untuk larik satu dimensi dan dua dimensi, serta pembuatan grafik untuk visualisasi data.
+Seri ini dimulai dari penggunaan Python sebagai kalkulator sederhana, lalu berkembang ke tipe data dasar, struktur kontrol, fungsi, struktur data, dan pengolahan berkas. Setelah itu, pembahasan diperluas ke penggunaan **NumPy** untuk larik satu dimensi dan dua dimensi, serta pembuatan grafik untuk visualisasi data. Dengan urutan seperti ini, pembaca dapat membangun pemahaman dari dasar menuju penggunaan Python yang lebih relevan untuk kebutuhan akademik dan teknis.
 
-Dengan urutan seperti ini, pembaca dapat membangun pemahaman dari dasar menuju penggunaan Python yang lebih relevan untuk kebutuhan akademik dan teknis.
+## 📚 Referensi Utama
+
+- Christian Hill, *Learning Scientific Programming with Python*, 2nd edition, Cambridge University Press, 2020.
+- Mark Newman, *Computational Physics*, 2nd edition, CreateSpace Independent Publishing Platform, 2025.
+- Alexandros Gezerlis, *Numerical Methods in Physics with Python*, 2nd edition, Cambridge University Press, 2023.
 
 ---
 
@@ -75,4 +82,4 @@ Kolaborasi sangat terbuka untuk:
 - pengembangan latihan dan contoh program,
 - pengembangan topik Python lanjutan.
 
-Silakan buka **Issue** atau kirim **Pull Request** untuk berkontribusi pada pengembangan seri ini.
+Silakan kontak [Fisikawan Gendeng](https://www.instagram.com/fisikawan.gendeng), atau buka **Issue**, atau kirim **Pull Request** untuk berkontribusi.
